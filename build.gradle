@@ -1,0 +1,3 @@
+package rational
+
+apply plugin: 'kotlin'
